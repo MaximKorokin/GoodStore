@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 
 namespace GoodStore
@@ -16,16 +17,6 @@ namespace GoodStore
         {
             Console.WriteLine("\tGood Store");
             Menu();
-            //foreach (var e in rep.GetGoods())
-            //    Console.WriteLine(e.Name);
-            //IShipment s = new Shipment
-            //{
-            //    Import = false,
-            //    Date = DateTime.Now
-            //};
-            //System.Collections.Generic.List<IShipmentPart> sps = new System.Collections.Generic.List<IShipmentPart>
-            //    { new ShipmentPart { GoodId = 6, Amount = 5 }, new ShipmentPart { GoodId = 5, Amount = 5 } };
-            //rep.AddShipment(s, sps);
         }
 
         private void Menu()
@@ -134,7 +125,8 @@ Menu
             {
                 if(input == "1")
                 {
-                    parts.Add(ShipmentPart(shipment, goodsList));
+                    parts.Add(ShipmentPart(shipment, 
+                        goodsList.Where(g => parts.FirstOrDefault(p => p.GoodId == g.Id) == null).ToList()));
                     ShowShipmentPartMenu();
                 }
                 else
