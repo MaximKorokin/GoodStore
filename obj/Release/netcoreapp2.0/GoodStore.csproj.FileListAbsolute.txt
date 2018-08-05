@@ -1,0 +1,11 @@
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\bin\Release\netcoreapp2.0\GoodStore.deps.json
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\bin\Release\netcoreapp2.0\GoodStore.runtimeconfig.json
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\bin\Release\netcoreapp2.0\GoodStore.runtimeconfig.dev.json
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\bin\Release\netcoreapp2.0\GoodStore.dll
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\bin\Release\netcoreapp2.0\GoodStore.pdb
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\obj\Release\netcoreapp2.0\GoodStore.csprojAssemblyReference.cache
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\obj\Release\netcoreapp2.0\GoodStore.csproj.CoreCompileInputs.cache
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\obj\Release\netcoreapp2.0\GoodStore.AssemblyInfoInputs.cache
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\obj\Release\netcoreapp2.0\GoodStore.AssemblyInfo.cs
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\obj\Release\netcoreapp2.0\GoodStore.dll
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\obj\Release\netcoreapp2.0\GoodStore.pdb

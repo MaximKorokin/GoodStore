@@ -1,0 +1,22 @@
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.deps.json
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.runtimeconfig.json
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.runtimeconfig.dev.json
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.dll
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.pdb
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.csprojAssemblyReference.cache
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.csproj.CoreCompileInputs.cache
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.AssemblyInfoInputs.cache
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.AssemblyInfo.cs
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.dll
+E:\Вся фигня\nure\GL\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.pdb
+E:\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.deps.json
+E:\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.runtimeconfig.json
+E:\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.runtimeconfig.dev.json
+E:\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.dll
+E:\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.pdb
+E:\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.csprojAssemblyReference.cache
+E:\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.csproj.CoreCompileInputs.cache
+E:\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.AssemblyInfoInputs.cache
+E:\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.AssemblyInfo.cs
+E:\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.dll
+E:\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.pdb
