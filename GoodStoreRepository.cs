@@ -97,7 +97,6 @@ namespace GoodStore
                     cmd.Parameters.AddWithValue("@ShipmentId", shipmentId);
                     cmd.Parameters.AddWithValue("@Amount", sp.Amount);
                     cmd.Parameters.AddWithValue("@DeltaAmount", sp.Amount * (shipment.Import ? 1 : -1));
-                    cmd.Parameters.AddWithValue("@NewAmount", sp.Amount);
                     cmd.ExecuteNonQuery();
                 }
 
