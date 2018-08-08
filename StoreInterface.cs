@@ -13,7 +13,7 @@ namespace GoodStore
             repository = rep;
         }
 
-        public void Start(GoodStoreRepository rep)
+        public void Start()
         {
             Console.WriteLine("\tGood Store");
             Menu();

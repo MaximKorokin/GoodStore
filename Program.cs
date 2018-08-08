@@ -6,7 +6,7 @@
         {
             using(GoodStoreRepository rep = new GoodStoreRepository())
             {
-                new StoreInterface(rep).Start(rep);
+                new StoreInterface(rep).Start();
             }
         }
     }
